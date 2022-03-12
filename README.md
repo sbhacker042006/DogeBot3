@@ -58,7 +58,7 @@ heroku/nodejs
 ## `Clone Repo & Installation dependencies`
 ```bash
 🦄 git clone https://github.com/sbhacker042006/DogeBot3-2
-🦄 cd DogeBot3
+🦄 cd DogeBot3-2
 🦄 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
@@ -75,7 +75,7 @@ heroku/nodejs
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
 🦄 git clone https://github.com/sbhacker042006/DogeBot3-2
-🦄 cd DogeBot3
+🦄 cd DogeBot3-2
 🦄 ls
 🦄 rm -rf session.json
 🦄 npm start
