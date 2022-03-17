@@ -78,6 +78,7 @@ heroku/nodejs
 🦄 cd DogeBot3-2
 🦄 ls
 🦄 rm -rf session.json
+🦄 npm install
 🦄 npm start
 🦄 scan qr code within 15seconds
 ```
